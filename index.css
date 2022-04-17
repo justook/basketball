@@ -1,0 +1,57 @@
+.main{
+    position: relative;
+}
+.main .back{
+    position: relative;
+}
+
+.main .back img{
+    position: absolute;
+}
+
+.main h1{
+    position: absolute;
+    width: 600px;
+    left: 0px;
+    right: 0;
+    margin: auto;
+    top: 88px;
+    font-size: 50px;
+    color: #000000b8;
+}
+
+.main .xlsx table{
+    border-top:1px solid #333;border-left:1px solid #333;border-spacing:0;background-color:#fff;width:100%
+}
+
+.main .xlsx table td{
+    border-bottom:1px solid #333;border-right:1px solid #333;font-size:13px;padding:5px
+}
+
+.main .xlsx .font5{color:windowtext;}
+.main .xlsx .xl64{text-align:center;}
+
+.main .xlsx{
+    position: absolute;
+    width: 1000px;
+    left: 0px;
+    right: 0px;
+    top: 200px;
+    margin: auto;
+}
+
+.main .footer{
+    position: absolute;
+    color: #fff;
+    font-size: 35px;
+    top: 1150px;
+    font-family: cursive;
+    width: 1000px;
+    left: 0px;
+    right: 0;
+    margin: auto;
+}
+
+.main .footer span{
+    margin: 20px;
+}
